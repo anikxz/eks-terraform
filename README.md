@@ -1,5 +1,9 @@
 # eks-terraform
 
+![Terraform](https://img.shields.io/badge/Terraform-%3E%3D1.3-7B42BC?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EKS-FF9900?logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.29-326CE5?logo=kubernetes&logoColor=white)
+
 Terraform configuration for an AWS EKS cluster with a VPC, managed node group, and the
 AWS Load Balancer Controller (for provisioning ALBs/NLBs from Kubernetes Ingress/Services).
 
